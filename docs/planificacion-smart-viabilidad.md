@@ -1,13 +1,20 @@
 # Documento Detallado: Objetivo SMART y Análisis de Viabilidad Multidimensional
 
 **Asignatura:** Gestión de Proyectos de Software (SCG-1009)
-**Unidad:** 3. Planificación del Proyecto
-**Proyecto:** Sistema de Control y Comercialización de la Producción de Miel
-**Organización beneficiaria:** Unión de Productores de Miel de San Juan Ñumí, Oaxaca
-**Marco de trabajo:** eduScrum
-**Equipo de desarrollo:** Félix, Diego, Daniel y Luis
-**Fecha:** 09 de octubre de 2026
 
+**Tema:** Objetivo SMART y Análisis de Viabilidad Multidimensional
+
+**Unidad:** 3. Planificación del Proyecto
+
+**Proyecto:** Sistema de Control y Comercialización de la Producción de Miel
+
+**Organización beneficiaria:** Unión de Productores de Miel de San Juan Ñumí, Oaxaca
+
+**Marco de trabajo:** eduScrum
+
+**Equipo de desarrollo:** DIEGO FIDEL SOSA CRUZ, FELIX ANGEL GARCIA GARCIA, DANIEL ALEJANDRO LOPEZ CAMARILLO Y LUIS ALEXIS MORALES JOSE
+
+**Fecha:** 09 de octubre de 2026
 ---
 
 ## 1. Formulación del Objetivo SMART
