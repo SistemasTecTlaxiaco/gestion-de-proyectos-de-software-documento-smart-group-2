@@ -1,0 +1,62 @@
+# Documento SMART: Sistema de Control y Comercialización de la Producción de Miel
+
+## 1. Datos generales
+
+* **Proyecto:** Sistema de Control y Comercialización de la Producción de Miel.
+* **Organización beneficiaria:** Unión de Productores de Miel de San Juan Ñumí, Oaxaca.
+* **Asignatura:** Gestión de Proyectos de Software.
+* **Equipo de trabajo:** Félix, Diego, Daniel y Luis.
+
+## 2. Descripción del proyecto
+
+El proyecto consiste en desarrollar una solución de software que facilite el control de la producción y comercialización de miel. Se busca centralizar la información relacionada con los productores, las cosechas, el inventario y las ventas, para mejorar la organización y el seguimiento de las actividades de la Unión de Productores de Miel de San Juan Ñumí, Oaxaca.
+
+## 3. Objetivo SMART
+
+Diseñar y desarrollar un sistema de control y comercialización de la producción de miel que permita organizar los registros de los productores, controlar la información de las cosechas, administrar el inventario y registrar las ventas, con el propósito de facilitar el seguimiento de la producción y apoyar la toma de decisiones de la Unión de Productores de Miel de San Juan Ñumí, Oaxaca, durante el periodo establecido para el desarrollo del proyecto académico.
+
+## 4. Análisis SMART
+
+### S — Específico
+
+El proyecto se enfoca en organizar y mejorar el control de las actividades relacionadas con la producción y comercialización de miel mediante un sistema de software. Sus funciones propuestas comprenden el registro de productores, el control de cosechas, la administración del inventario y el registro de ventas.
+
+### M — Medible
+
+El avance se podrá evaluar mediante la implementación y verificación de los cuatro componentes funcionales propuestos:
+
+1. Registro de productores.
+2. Control de cosechas.
+3. Administración del inventario.
+4. Registro de ventas.
+
+Se deberá comprobar que cada componente permita registrar, consultar y mantener organizada la información correspondiente. Las metas numéricas y los criterios de aceptación definitivos deberán acordarse con el equipo y la organización beneficiaria.
+
+### A — Alcanzable
+
+El proyecto se puede desarrollar de manera gradual, distribuyendo las actividades entre los cuatro integrantes del equipo. La planificación contempla el análisis de requisitos, el diseño de la solución, el desarrollo de las funcionalidades, las pruebas y la documentación.
+
+### R — Relevante
+
+El sistema responde a la necesidad de mejorar la organización y el seguimiento de la producción y comercialización de miel. Su propósito es facilitar la consulta de información y contribuir a una administración más ordenada de las actividades de los productores.
+
+### T — Temporal
+
+El proyecto se desarrollará durante el periodo establecido en el calendario académico de la asignatura Gestión de Proyectos de Software. Las fechas de inicio, las entregas parciales y la fecha límite deberán registrarse en el cronograma del equipo.
+
+## 5. Resultados esperados
+
+* Contar con un registro organizado de los productores.
+* Facilitar el seguimiento de las cosechas de miel.
+* Mejorar el control de las existencias disponibles.
+* Mantener un registro de las ventas realizadas.
+* Facilitar la consulta de información para apoyar la toma de decisiones.
+* Disponer de documentación y pruebas que permitan evaluar el funcionamiento del sistema.
+
+Estos resultados son objetivos del proyecto y deberán comprobarse durante su desarrollo y validación.
+
+## 6. Conclusión
+
+El Sistema de Control y Comercialización de la Producción de Miel busca ofrecer una herramienta que contribuya a mejorar la organización de la información y el seguimiento de las actividades de la Unión de Productores de Miel de San Juan Ñumí, Oaxaca. La definición del objetivo SMART permite establecer el alcance del proyecto, identificar sus componentes principales y orientar las actividades del equipo hacia resultados verificables.
+
+**Nota:** Las funcionalidades y los resultados descritos son propuestas de planificación; no implican que el sistema ya esté implementado.
